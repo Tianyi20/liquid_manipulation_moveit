@@ -1,4 +1,7 @@
 # Tianyi's liquid manipulation work
+
+![image](https://github.com/user-attachments/assets/5df39b66-e0fb-43b6-9d05-cfbe250d1d31)
+
 ![Screenshot from 2024-11-29 21-08-48](https://github.com/user-attachments/assets/7c80f1f9-c056-4025-98be-125356cbc97e)
 
 Easy to use after setting all moveit configuration.
